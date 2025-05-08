@@ -1,1 +1,1 @@
-# Boost-Research-with-Anara-AI
+# Boost Research with Anara AI
