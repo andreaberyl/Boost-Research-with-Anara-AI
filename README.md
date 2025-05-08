@@ -13,6 +13,8 @@ One of the best features of Anara is its ability to handle various formats. You 
 
 Another thing I love about Anara is how it helps keep everything organized. As someone who tends to scatter notes everywhere, having a digital space where I can store and categorize all my research materials has been a game-changer. Plus, when it comes time to start writing, Anara makes sure I don’t miss any citations. No more scrambling at the last minute trying to remember where I found that one crucial piece of information!
 
-Now, here's the exciting part: if you decide to try out Anara, you can use my referral link to get started. Just click here (Referral link, $10 discount for the first month) to sign up and join the community of students and researchers who are already benefiting from this incredible tool. Trust me, once you start using Anara, you'll wonder how you ever managed without it!
+Now, here's the exciting part: if you decide to try out Anara, you can use my referral link to get started. Just click <a href="https://bit.ly/anara-ai-10-dollar-discount-andrea-beryl">
+  <alt="Boost Research with Anara AI" title="Boost Research with Anara AI"/>
+</a> (Referral link, $10 discount for the first month) to sign up and join the community of students and researchers who are already benefiting from this incredible tool. Trust me, once you start using Anara, you'll wonder how you ever managed without it!
 
 In conclusion, Anara AI isn't just another app; it's a powerful ally in the world of academia. From speeding up your research process to keeping your work neat and cited properly, Anara offers a unique blend of functionality and ease-of-use that's hard to beat. So why wait? Give Anara a try today and see how it transforms your approach to learning and writing. Happy researching!
