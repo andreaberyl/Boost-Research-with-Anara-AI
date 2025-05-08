@@ -1,5 +1,5 @@
 # Boost Research with Anara AI
-<a href="https://www.anara.com/?via=dzluhr57">
+<a href="https://bit.ly/anara-ai-10-dollar-discount-andrea-beryl">
   <img src="https://github.com/user-attachments/assets/8dfa9eef-7a9a-4157-8028-de1aa96913dc" alt="Boost Research with Anara AI" title="Boost Research with Anara AI" />
 </a>
 
