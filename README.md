@@ -1,5 +1,7 @@
 # Boost Research with Anara AI
-[![Boost Research with Anara AI](https://github.com/user-attachments/assets/8dfa9eef-7a9a-4157-8028-de1aa96913dc)](https://www.anara.com/?via=dzluhr57)
+<a href="https://www.anara.com/?via=dzluhr57">
+  <img src="https://github.com/user-attachments/assets/8dfa9eef-7a9a-4157-8028-de1aa96913dc" alt="Boost Research with Anara AI" title="Boost Research with Anara AI" />
+</a>
 Hey there! I'm super excited to share something that has genuinely changed the way I handle my school projects and research papers. Meet Anara AI —an amazing tool that's like having a personal assistant who’s always ready to help you with your reading, writing, and even organizing all that information you gather along the way.
 
 So, what exactly is Anara? Well, it's an AI-powered research assistant designed specifically for academic purposes. Whether you're a student, researcher, or scientist, Anara can make your life so much easier by helping you quickly understand complex documents, organize your findings, and write well-cited papers. Sounds cool, right?
